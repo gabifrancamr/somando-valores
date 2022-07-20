@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background: pink;
+}
+h1{
+    font: normal 30pt arial;
+}
+#button{
+    border-radius: 15px;
+    font-size: 2em;
+    padding: 5px;
+}
+#resultado{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#valor1, #valor2{
+    border-radius: 5px;
+    height: 20px;
+    padding: 5px;
+}
